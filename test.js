@@ -1,4 +1,1 @@
-
-
-
-var test = "merge";
+var merge = 1l;
