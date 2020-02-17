@@ -1,1 +1,4 @@
-var a = 10;
+
+var c = 1;
+
+var test = "merge";
